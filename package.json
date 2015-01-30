@@ -1,6 +1,6 @@
 {
   "name": "eslint-path-formatter",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "ESLint formatter with source-map support and absolute paths with row/column on one line.",
   "author": {
     "name": "Bart van der Schoor",
